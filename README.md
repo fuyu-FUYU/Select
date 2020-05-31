@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # select
 
 ## Project setup
@@ -22,3 +23,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# Select
+封装Select组件
+>>>>>>> f710361894db4a2daf53edb9a9dd32664d833b3a
